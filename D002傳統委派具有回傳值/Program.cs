@@ -18,7 +18,7 @@ namespace D002傳統委派具有回傳值
             Console.Read();
 
             //C# 2.0 開始支援
-            //不再一定需要依賴於某一個執行個體方法，或是靜態方法。而可以直接透過delegate關鍵字宣告匿名方法(Anonymous Method)
+            //不再一定需要依賴於某一個執行個體方法，或是靜態方法。而可以直接透過delegate關鍵字宣告
             MyStringDelegate mystringdelegate2 = delegate (string name)
             {
                return name;

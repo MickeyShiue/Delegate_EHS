@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D002傳統委派具有回�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D003證明委派是一種型別", "D003證明委派是一種型別\D003證明委派是一種型別.csproj", "{C6317E7C-E6AD-4A42-B12A-4130685AA736}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D004將委派塞入變數與參數傳遞", "..\D004將委派塞入變數與參數傳遞\D004將委派塞入變數與參數傳遞.csproj", "{2FBFF7CC-1F85-4341-BDDD-6854D77F6D0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C6317E7C-E6AD-4A42-B12A-4130685AA736}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6317E7C-E6AD-4A42-B12A-4130685AA736}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6317E7C-E6AD-4A42-B12A-4130685AA736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBFF7CC-1F85-4341-BDDD-6854D77F6D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBFF7CC-1F85-4341-BDDD-6854D77F6D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBFF7CC-1F85-4341-BDDD-6854D77F6D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBFF7CC-1F85-4341-BDDD-6854D77F6D0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

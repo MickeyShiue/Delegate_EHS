@@ -17,7 +17,7 @@ namespace D004將委派塞入變數與參數傳遞
 
             //將委派當作參數，傳遞給InvokeDelegate這個方法，而參數是一個委派，
             //換句話說也就是傳一個方法給InvokeDelegate
-            InvokeDelegate(myDelegate);
+            InvokeDelegate(MyMethod);
         }
 
         public static void MyMethod()
@@ -28,6 +28,6 @@ namespace D004將委派塞入變數與參數傳遞
         public static void InvokeDelegate(MyDelegate myDelegate)
         {
             myDelegate.Invoke();
-        }      
+        }
     }
 }
