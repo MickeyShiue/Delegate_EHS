@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D003證明委派是一種�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D004將委派塞入變數與參數傳遞", "..\D004將委派塞入變數與參數傳遞\D004將委派塞入變數與參數傳遞.csproj", "{2FBFF7CC-1F85-4341-BDDD-6854D77F6D0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D005Action介紹", "..\D005Action介紹\D005Action介紹.csproj", "{8986ACD6-81E8-4435-9220-8ECA0F04980D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2FBFF7CC-1F85-4341-BDDD-6854D77F6D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FBFF7CC-1F85-4341-BDDD-6854D77F6D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FBFF7CC-1F85-4341-BDDD-6854D77F6D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8986ACD6-81E8-4435-9220-8ECA0F04980D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8986ACD6-81E8-4435-9220-8ECA0F04980D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8986ACD6-81E8-4435-9220-8ECA0F04980D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8986ACD6-81E8-4435-9220-8ECA0F04980D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

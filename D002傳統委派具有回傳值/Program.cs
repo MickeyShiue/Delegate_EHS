@@ -22,12 +22,12 @@ namespace D002傳統委派具有回傳值
             MyStringDelegate mystringdelegate2 = delegate (string name)
             {
                return name;
-            };  
+            };
             //JS 
             //$.post("ajax/test.html", function(data) {
             //    $(".result").html(data);
             //});
-            //$.post("ajax/test.html",MyCallBackfunction);
+            //$.post("ajax/test.html",MyCallBackfunction(data));
         }
 
         public static string MyStringMethod(string name) => "MyStringMethod";   
