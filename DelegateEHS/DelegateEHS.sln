@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D003證明委派是一種�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D006Predicate介紹", "..\D006Predicate介紹\D006Predicate介紹.csproj", "{323E1CD6-5B67-43EF-88F2-7CB08C7AF952}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D007Func介紹", "..\D007Func介紹\D007Func介紹.csproj", "{AA340B10-C33A-4EB6-88C3-02F9FCCB9512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D008Expression介紹", "..\D008Expression介紹\D008Expression介紹.csproj", "{0A66E80A-20BE-4DD9-8331-A16D8E81080A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{323E1CD6-5B67-43EF-88F2-7CB08C7AF952}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{323E1CD6-5B67-43EF-88F2-7CB08C7AF952}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{323E1CD6-5B67-43EF-88F2-7CB08C7AF952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA340B10-C33A-4EB6-88C3-02F9FCCB9512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA340B10-C33A-4EB6-88C3-02F9FCCB9512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA340B10-C33A-4EB6-88C3-02F9FCCB9512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA340B10-C33A-4EB6-88C3-02F9FCCB9512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A66E80A-20BE-4DD9-8331-A16D8E81080A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A66E80A-20BE-4DD9-8331-A16D8E81080A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A66E80A-20BE-4DD9-8331-A16D8E81080A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A66E80A-20BE-4DD9-8331-A16D8E81080A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

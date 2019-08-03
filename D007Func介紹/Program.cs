@@ -14,11 +14,9 @@ namespace D007Func介紹
             Func<MemberInfo, bool> filter = MyFilter;
             var members = GetMembers().Where(MyFilter);
 
+            //前面講到Delegate 的使用時機，當你沒辦法控制的時候，應該要用Delegate
             //示範Select 的型別
             //members.Select
-
-            //示範OrderBy 的Key
-            //members.OrderBy(r => r);
         }
 
         public static bool MyFilter(MemberInfo member)
