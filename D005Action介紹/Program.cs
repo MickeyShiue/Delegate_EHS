@@ -11,7 +11,6 @@ namespace D005Action介紹
     {
         static void Main(string[] args)
         {
-
             //傳統
             MyDelegate myDelegate = MyMethod;
             myDelegate.Invoke("Mickey", "Shiue");
@@ -19,7 +18,7 @@ namespace D005Action介紹
             //簡化版
             Action<string, string> action = MyMethod;
             action.Invoke("Mickey", "Shiue");
-
+ 
             Console.Read();
             //但是......
         }
