@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D007Func介紹", "..\D007Fu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D008Expression介紹", "..\D008Expression介紹\D008Expression介紹.csproj", "{0A66E80A-20BE-4DD9-8331-A16D8E81080A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D009Lambda介紹", "..\D009Lambda介紹\D009Lambda介紹.csproj", "{B1719FD0-8D9A-449E-BAE3-3E4DD9538089}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D010AsyncLambda介紹", "..\D010AsyncLambda介紹\D010AsyncLambda介紹.csproj", "{FFCC7EE6-0BE5-491C-B99B-B9D1BC669564}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{0A66E80A-20BE-4DD9-8331-A16D8E81080A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A66E80A-20BE-4DD9-8331-A16D8E81080A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A66E80A-20BE-4DD9-8331-A16D8E81080A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1719FD0-8D9A-449E-BAE3-3E4DD9538089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1719FD0-8D9A-449E-BAE3-3E4DD9538089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1719FD0-8D9A-449E-BAE3-3E4DD9538089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1719FD0-8D9A-449E-BAE3-3E4DD9538089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFCC7EE6-0BE5-491C-B99B-B9D1BC669564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCC7EE6-0BE5-491C-B99B-B9D1BC669564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCC7EE6-0BE5-491C-B99B-B9D1BC669564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCC7EE6-0BE5-491C-B99B-B9D1BC669564}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
