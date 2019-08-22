@@ -11,7 +11,7 @@ namespace D003證明委派是一種型別
         static void Main(string[] args)
         {
             MyClass myClass = new MyClass();
-            myClass._delegateProperty.Invoke();       
+            myClass._delegateProperty.Invoke();
             //說明委派 欄位、屬性、事件差異
         }
     }
